@@ -58,3 +58,12 @@ Mkfile.old
 dkms.conf
 .metadata/
 
+Swont_ide_uart_6.5.zip_expanded/swont_ide/.cproject
+Swont_ide_uart_6.5.zip_expanded/swont_ide/.mxproject
+Swont_ide_uart_6.5.zip_expanded/swont_ide/.project
+*.prefs
+*.mk
+Swont_ide_uart_6.5.zip_expanded/swont_ide/Debug/makefile
+*.list
+*.bin
+*.ld
